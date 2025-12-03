@@ -1,0 +1,4 @@
+A couple things to know for the set up the code. 
+First you need to have the script in the same file as the teachable machine data file and label files.
+Second thing is with whatever code editor you are using make sure you are running python 3.11.
+You also going to need to install pyserial (communicate with Audino), opencv-python (Camera), and tensorflow version 2.12 (To handle data file).
